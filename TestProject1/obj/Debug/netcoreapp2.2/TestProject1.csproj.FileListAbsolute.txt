@@ -1,0 +1,17 @@
+/home/mert/RiderProjects/Solution/TestProject1/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/mert/RiderProjects/Solution/TestProject1/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/mert/RiderProjects/Solution/TestProject1/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/mert/RiderProjects/Solution/TestProject1/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/mert/RiderProjects/Solution/TestProject1/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/mert/RiderProjects/Solution/TestProject1/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/mert/RiderProjects/Solution/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.deps.json
+/home/mert/RiderProjects/Solution/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.runtimeconfig.json
+/home/mert/RiderProjects/Solution/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.runtimeconfig.dev.json
+/home/mert/RiderProjects/Solution/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.dll
+/home/mert/RiderProjects/Solution/TestProject1/bin/Debug/netcoreapp2.2/TestProject1.pdb
+/home/mert/RiderProjects/Solution/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.csprojAssemblyReference.cache
+/home/mert/RiderProjects/Solution/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.csproj.CoreCompileInputs.cache
+/home/mert/RiderProjects/Solution/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.AssemblyInfoInputs.cache
+/home/mert/RiderProjects/Solution/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.AssemblyInfo.cs
+/home/mert/RiderProjects/Solution/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.dll
+/home/mert/RiderProjects/Solution/TestProject1/obj/Debug/netcoreapp2.2/TestProject1.pdb
